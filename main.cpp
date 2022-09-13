@@ -1,4 +1,5 @@
 //Yoan Poulmarc'k 260773983
+//yoan.poulmarck@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
