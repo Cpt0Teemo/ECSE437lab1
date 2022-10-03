@@ -25,5 +25,6 @@ cout <<"Sorted Element List ...\n";
 for(i = 0; i<10; i++) {
    cout <<a[i]<<"\t";
 }
+//Close program
 return 0;
 }
