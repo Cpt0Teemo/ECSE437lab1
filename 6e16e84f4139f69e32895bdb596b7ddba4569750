@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7a554615_7ade9f27",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020528
+      },
+      "writtenOn": "2022-10-03T20:21:32Z",
+      "side": 1,
+      "message": "Good job but I think you mistakenly added return 0, so please remove it. Otherwise, good commit!",
+      "revId": "6e16e84f4139f69e32895bdb596b7ddba4569750",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "da9e12c5_a1904bc4",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1020528
+      },
+      "writtenOn": "2022-10-03T20:21:32Z",
+      "side": 1,
+      "message": "Please remove this return 0 line, it is duplicated.",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 9
+      },
+      "revId": "6e16e84f4139f69e32895bdb596b7ddba4569750",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
