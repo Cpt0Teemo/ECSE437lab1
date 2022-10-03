@@ -26,4 +26,6 @@ for(i = 0; i<10; i++) {
    cout <<a[i]<<"\t";
 }
 return 0;
+//Close program
+return 0;
 }
