@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35056825_b76eea08",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020528
+      },
+      "writtenOn": "2022-10-03T04:50:10Z",
+      "side": 1,
+      "message": "This is a great commit, however, there is an empty line at the end of tour README file, so please remove that. Otherwise, great job!",
+      "revId": "d5fb9ad7048e54fa59f9f4439fef54a05ae222c5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "acb900da_88b90b7f",
+        "filename": "README",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1020528
+      },
+      "writtenOn": "2022-10-03T04:50:10Z",
+      "side": 1,
+      "message": "Please just remove the last empty line please!",
+      "revId": "d5fb9ad7048e54fa59f9f4439fef54a05ae222c5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
